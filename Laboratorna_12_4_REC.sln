@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_12_4_REC", "Laboratorna_12_4_REC\Laboratorna_12_4_REC.csproj", "{16C98C93-A4BB-476B-8CF4-C0A44C28A4AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_12_4_REC.Tests", "Laboratorna_12_4_REC.Tests\Laboratorna_12_4_REC.Tests.csproj", "{6DA4240D-8F83-44F6-82F8-1BCE69C1D8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C98C93-A4BB-476B-8CF4-C0A44C28A4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C98C93-A4BB-476B-8CF4-C0A44C28A4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C98C93-A4BB-476B-8CF4-C0A44C28A4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C98C93-A4BB-476B-8CF4-C0A44C28A4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA4240D-8F83-44F6-82F8-1BCE69C1D8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA4240D-8F83-44F6-82F8-1BCE69C1D8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA4240D-8F83-44F6-82F8-1BCE69C1D8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA4240D-8F83-44F6-82F8-1BCE69C1D8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
